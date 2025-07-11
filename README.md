@@ -10,7 +10,7 @@ Explore and analyze a global unemployment dataset to:
 - Practice data cleaning, sorting, and plotting techniques.
 
 ## 📂 Dataset  
-**Name:** unemployment analysis.csv  
+**Name:** unemployment analysis.csv from Kaggle
 **Source:** Provided for internship task (global unemployment data 1991–2021)
 
 **Includes columns such as:**
